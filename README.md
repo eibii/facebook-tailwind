@@ -10,7 +10,7 @@ Esta é uma reconstrução da página de cadastro do Facebook, com o objeto de p
 
 ### Links
 
-- [Em produção URL:](https://eibii.github.io/tailwindcss-facebook/)
+- [Em produção URL:](https://facebook-tailwind.ercdev.com.br/)
 
 ## Meu proceso
 
