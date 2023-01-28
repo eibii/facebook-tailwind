@@ -23,4 +23,4 @@ Esta é uma reconstrução da página de cadastro do Facebook, com o objetivo de
 
 ## Autor
 
-- [Meet me](https://ercdev.com.br/)
+- [Me encontre](https://ercdev.com.br/)
