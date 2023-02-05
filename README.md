@@ -12,7 +12,7 @@ Esta é uma reconstrução da página de cadastro do Facebook, com o objetivo de
 
 - [Em produção URL:](https://facebook-tailwind.ercdev.com.br/)
 
-## Meu proceso
+## Meu processo
 
 ### Construído com
 
