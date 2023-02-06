@@ -10,7 +10,7 @@ Esta é uma reconstrução da página de cadastro do Facebook, com o objetivo de
 
 ### Links
 
-- [Em produção URL:](https://facebook-tailwind.ercdev.com.br/)
+- [Em produção URL](https://fastidious-manatee-28411d.netlify.app/)
 
 ## Meu processo
 
